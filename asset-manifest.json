@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/shinkevich/static/css/main.1395d89b.css",
+    "main.js": "/shinkevich/static/js/main.7903a394.js",
+    "static/media/calc_bg.jpg": "/shinkevich/static/media/calc_bg.e0dc08edfbcebffaeafb.jpg",
+    "static/media/main_bg.jpg": "/shinkevich/static/media/main_bg.eeac1606d23306c10183.jpg",
+    "static/media/company_bg.jpg": "/shinkevich/static/media/company_bg.ffecf89052f32b0986a6.jpg",
+    "static/media/6.jpg": "/shinkevich/static/media/6.e1b761300f6acc8778a5.jpg",
+    "static/media/5.jpg": "/shinkevich/static/media/5.1349bcffd5fa5a07901e.jpg",
+    "static/media/acc_3.jpg": "/shinkevich/static/media/acc_3.7363d1f4c3a9b286f77a.jpg",
+    "static/media/2.jpg": "/shinkevich/static/media/2.d094d6adfd7fe933f891.jpg",
+    "static/media/4.jpg": "/shinkevich/static/media/4.cf7cb1a4e9295b614e29.jpg",
+    "static/media/7.jpg": "/shinkevich/static/media/7.bad07ab3b3f873e30ed6.jpg",
+    "static/media/acc_1.jpg": "/shinkevich/static/media/acc_1.fd1809fec56a1168a3c9.jpg",
+    "static/media/1.jpg": "/shinkevich/static/media/1.d603a412979fd26c73d9.jpg",
+    "static/media/acc_2.jpg": "/shinkevich/static/media/acc_2.7de384e51c8d2917ad89.jpg",
+    "static/media/8.jpg": "/shinkevich/static/media/8.9893c005fbd082ed60f9.jpg",
+    "static/media/3.jpg": "/shinkevich/static/media/3.a26bd2b9e75b7d23fa31.jpg",
+    "index.html": "/shinkevich/index.html",
+    "main.1395d89b.css.map": "/shinkevich/static/css/main.1395d89b.css.map",
+    "main.7903a394.js.map": "/shinkevich/static/js/main.7903a394.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1395d89b.css",
+    "static/js/main.7903a394.js"
+  ]
+}
